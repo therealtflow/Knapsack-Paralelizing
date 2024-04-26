@@ -1,0 +1,33 @@
+Optimal items to take (Name, Value, Weight):
+Item: Item2, Value: 165, Weight: 2
+Item: Item3, Value: 193, Weight: 1
+Item: Item4, Value: 120, Weight: 13
+Item: Item6, Value: 157, Weight: 18
+Item: Item8, Value: 57, Weight: 8
+Item: Item9, Value: 166, Weight: 8
+
+Maximum weight capacity of the knapsack: 50
+Maximum value that can be accommodated: 858
+knapsack_Time, Total_Time
+0.000018304, 0.000101211Optimal items to take (Name, Value, Weight):
+Item: Item2, Value: 165, Weight: 2
+Item: Item3, Value: 193, Weight: 1
+Item: Item4, Value: 120, Weight: 13
+Item: Item6, Value: 157, Weight: 18
+Item: Item8, Value: 57, Weight: 8
+Item: Item9, Value: 166, Weight: 8
+
+Maximum weight capacity of the knapsack: 50
+Maximum value that can be accommodated: 858
+knapsack_Time, Total_Time
+0.000019224, 0.000085359Optimal items to take (Name, Value, Weight):
+
+Maximum weight capacity of the knapsack: 50
+Maximum value that can be accommodated: 858
+knapsack_Time, Total_Time
+0.000060593, 0.000109723Optimal items to take (Name, Value, Weight):
+
+Maximum weight capacity of the knapsack: 50
+Maximum value that can be accommodated: 858
+knapsack_Time, Total_Time
+0.000336467, 0.000380571
